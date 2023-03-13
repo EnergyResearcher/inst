@@ -1,0 +1,25 @@
+Command terminated by signal 9
+	Command being timed: "python ncells_corr.py 2081 EC-EARTH.hs.2081-2100"
+	User time (seconds): 1235.97
+	System time (seconds): 88.40
+	Percent of CPU this job got: 82%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 26:49.77
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 103810288
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 285
+	Minor (reclaiming a frame) page faults: 67365735
+	Voluntary context switches: 187206
+	Involuntary context switches: 9711
+	Swaps: 0
+	File system inputs: 7583824
+	File system outputs: 3080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=44525340.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
